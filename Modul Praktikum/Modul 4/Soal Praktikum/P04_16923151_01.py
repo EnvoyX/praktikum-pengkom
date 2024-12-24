@@ -1,4 +1,4 @@
-# NIM/Nama  : 16923263/Fitzal Haidar Rahman
+# NIM/Nama  : 16923151/Muhamad Hanif Hafizhan
 # Tanggal   : 30 Oktober 2023
 # Deskripsi : Menentukan rata-rata nilai praktikum
 
